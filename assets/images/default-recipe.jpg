@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <rect width="400" height="280" fill="#f0faf5"/>
+  <rect x="0" y="0" width="400" height="5" fill="#2d6a4f"/>
+  <text x="200" y="130" font-family="Arial,sans-serif" font-size="72" text-anchor="middle">🍽️</text>
+  <text x="200" y="175" font-family="Arial,sans-serif" font-size="16" text-anchor="middle" fill="#52b788" font-weight="bold">MealKit Recipe</text>
+  <text x="200" y="198" font-family="Arial,sans-serif" font-size="12" text-anchor="middle" fill="#a0aec0">Image coming soon</text>
+</svg>
